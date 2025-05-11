@@ -1,0 +1,40 @@
+## Types of Wireframes
+
+Wireframes can be broadly categorized into two types: **Low-Fidelity** and **High-Fidelity**. Each serves a different purpose depending on the phase of the design process.
+
+### Low-Fidelity Wireframes
+
+**Description:**  
+These are basic, simplified sketches or grayscale mockups that focus on structure and layout rather than visual design details. They often use placeholders (e.g., boxes for images, lines for text) and lack interactivity.
+
+**Purpose & Use Case:**  
+Used in the early stages of design to quickly communicate ideas, validate concepts, and gather feedback before investing in detailed design work.
+
+**Example Use:**  
+Sketching out the main layout of a website’s homepage or user flow in a brainstorming session.
+
+---
+
+### High-Fidelity Wireframes
+
+**Description:**  
+These are detailed and often interactive wireframes that closely resemble the final product. They include precise spacing, fonts, images, colors, and sometimes clickable elements.
+
+**Purpose & Use Case:**  
+Used in the later stages of the design process to test user interactions, gather stakeholder approvals, and guide developers during implementation.
+
+**Example Use:**  
+Demonstrating how a checkout process works with real data inputs and UI components.
+
+---
+
+## Wireframe Type Analysis: Airbnb Project on Figma
+
+**Figma Project Link:**  
+[Project Airbnb on Figma](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&t=sTAeZGS3VrBemZUd-0)
+
+**Type of Wireframe:**  
+**High-Fidelity Wireframe**
+
+**Explanation:**  
+The linked Figma project contains a polished design that includes actual UI components such as styled buttons, icons, images, and structured content layout. It goes beyond just layout by incorporating colors, fonts, and branding, making it visually close to a real product. This level of detail suggests it is a high-fidelity wireframe or even a prototype, suitable for usability testing, client presentations, or direct implementation by developers.
