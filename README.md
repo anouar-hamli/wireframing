@@ -201,3 +201,40 @@ Testing a low-fidelity wireframe with users can uncover friction points in navig
 
 **Conclusion:**  
 Incorporating wireframes into the software development process results in more structured, efficient, and user-friendly products. They help bridge the gap between ideas and implementation, reducing ambiguity and ensuring smoother project execution.
+## Real-World Scenario: Identifying Usability Issues Through Wireframing
+
+### Scenario: Online Food Delivery App
+
+A team was tasked with designing a food delivery app aimed at simplifying the process of ordering meals. During the early stages, the designers created a **low-fidelity wireframe** to map out the key user flows—such as browsing restaurants, selecting meals, and checking out.
+
+### Identified Usability Issues:
+
+1. **Confusing Checkout Flow:**
+   Users had to navigate through three different screens to confirm their order, which created friction and led to confusion about payment options and delivery time.
+
+2. **Unclear Navigation:**
+   The wireframe lacked clear buttons for returning to the restaurant list or modifying the cart, causing users to get stuck in one part of the app.
+
+3. **Overloaded Home Screen:**
+   The initial wireframe had too many categories and featured restaurants, which overwhelmed users and distracted them from placing an order quickly.
+
+### Resolution:
+
+- The team simplified the checkout process into **a single, scrollable page** using a high-fidelity wireframe with logical grouping (delivery address, payment, confirmation).
+- They added **persistent navigation buttons** at the bottom of the screen for easy access to key sections like Home, Orders, and Cart.
+- The home screen was redesigned to feature a **search bar and limited categories**, prioritizing the most popular ones and adding a "See More" option.
+
+These adjustments were made during the wireframing phase, saving significant time and effort that would have been required to fix these issues in code later on.
+
+### Impact on Final Product:
+
+- Users completed orders 30% faster in usability testing.
+- The app received positive feedback for its simplicity and ease of navigation.
+- Development was smoother, with fewer revisions and less back-and-forth between the design and dev teams.
+
+---
+
+## Conclusion: The Role of Wireframing
+
+Wireframing played a critical role in identifying and resolving potential usability issues early in the design process. By validating user flows and interface logic before development began, the team ensured the app was intuitive, efficient, and user-centered. This case highlights how **wireframing helps bridge the gap between concept and implementation**, ultimately leading to a more polished and effective product.
+
